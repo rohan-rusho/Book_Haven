@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#DEFAEB</color>
+
+    <!-- Green Theme Colors -->
+    <color name="green_primary">#34a853</color>
+    <color name="green_secondary">#43cea2</color>
+    <color name="green_dark">#185a4f</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_gold">#FFD700</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Status Bar Color -->
+    <color name="status_bar_color">#FFFFFFFF</color>
+</resources>

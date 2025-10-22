@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Haven</string>
+    <string name="title_home">Home</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_my_books">My Books</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_book_details">Book Details</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Sign Up</string>
+</resources>
